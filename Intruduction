@@ -1,0 +1,16 @@
+En theorie des graphes, un arbre est un graphe non orient ´ e,´
+acyclique et connexe. L’ensemble des nœuds se divise en trois
+categories : ´
+-Nœud racine (l’acces` a l’arbre se fait par ce nœud). `
+-Nœud internes : les nœuds qui ont des descendants (ou enfants), qui sont a leur tour des nœuds `
+-Nœud terminaux (ou feuilles) : nœuds qui n’ont pas de descendant.
+Les arbres de decision (AD) sont une cat ´ egorie d’arbres ´
+utilisee dans l’exploration de donn ´ ees et en informatique ´
+decisionnelle. Ils emploient une repr ´ esentation hi ´ erarchique ´
+de la structure des donnees sous forme des s ´ equences de ´
+decisions (tests) en vue de la pr ´ ediction d’un r ´ esultat ou d’une
+classe. Chaque individu (ou observation), qui doit etre at- ˆ
+tribue(e) ´ a une classe, est d ` ecrit(e) par un ensemble de vari- ´
+ables qui sont testees dans les nœuds de l’arbre. Les tests ´
+s’effectuent dans les nœuds internes et les decisions sont prise ´
+dans les nœuds feuille.
